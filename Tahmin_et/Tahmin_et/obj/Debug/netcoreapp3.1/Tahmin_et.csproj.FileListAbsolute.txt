@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\bin\Debug\netcoreapp3.1\Tahmin_et.exe
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\bin\Debug\netcoreapp3.1\Tahmin_et.deps.json
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\bin\Debug\netcoreapp3.1\Tahmin_et.runtimeconfig.json
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\bin\Debug\netcoreapp3.1\Tahmin_et.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\bin\Debug\netcoreapp3.1\Tahmin_et.dll
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\bin\Debug\netcoreapp3.1\Tahmin_et.pdb
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\obj\Debug\netcoreapp3.1\Tahmin_et.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\obj\Debug\netcoreapp3.1\Tahmin_et.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\obj\Debug\netcoreapp3.1\Tahmin_et.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\obj\Debug\netcoreapp3.1\Tahmin_et.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\obj\Debug\netcoreapp3.1\Tahmin_et.dll
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\obj\Debug\netcoreapp3.1\Tahmin_et.pdb
+C:\Users\Admin\source\repos\Tahmin_et\Tahmin_et\obj\Debug\netcoreapp3.1\Tahmin_et.genruntimeconfig.cache

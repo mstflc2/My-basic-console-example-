@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\bin\Debug\netcoreapp3.1\ebob_ekok.exe
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\bin\Debug\netcoreapp3.1\ebob_ekok.deps.json
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\bin\Debug\netcoreapp3.1\ebob_ekok.runtimeconfig.json
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\bin\Debug\netcoreapp3.1\ebob_ekok.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\bin\Debug\netcoreapp3.1\ebob_ekok.dll
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\bin\Debug\netcoreapp3.1\ebob_ekok.pdb
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\obj\Debug\netcoreapp3.1\ebob_ekok.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\obj\Debug\netcoreapp3.1\ebob_ekok.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\obj\Debug\netcoreapp3.1\ebob_ekok.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\obj\Debug\netcoreapp3.1\ebob_ekok.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\obj\Debug\netcoreapp3.1\ebob_ekok.dll
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\obj\Debug\netcoreapp3.1\ebob_ekok.pdb
+C:\Users\Admin\source\repos\ebob_ekok\ebob_ekok\obj\Debug\netcoreapp3.1\ebob_ekok.genruntimeconfig.cache

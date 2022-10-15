@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\bin\Debug\netcoreapp3.1\sayısalloto.exe
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\bin\Debug\netcoreapp3.1\sayısalloto.deps.json
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\bin\Debug\netcoreapp3.1\sayısalloto.runtimeconfig.json
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\bin\Debug\netcoreapp3.1\sayısalloto.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\bin\Debug\netcoreapp3.1\sayısalloto.dll
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\bin\Debug\netcoreapp3.1\sayısalloto.pdb
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\obj\Debug\netcoreapp3.1\sayısalloto.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\obj\Debug\netcoreapp3.1\sayısalloto.AssemblyInfo.cs
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\obj\Debug\netcoreapp3.1\sayısalloto.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\obj\Debug\netcoreapp3.1\sayısalloto.dll
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\obj\Debug\netcoreapp3.1\sayısalloto.pdb
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\obj\Debug\netcoreapp3.1\sayısalloto.genruntimeconfig.cache
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\obj\Debug\netcoreapp3.1\sayısalloto.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\sayısalloto\sayısalloto\obj\Debug\netcoreapp3.1\sayısalloto.GeneratedMSBuildEditorConfig.editorconfig
